@@ -3,7 +3,7 @@
 SQL-based analysis of 55,500 healthcare records — uncovering patient trends, hospital performance, doctor rankings, insurance coverage patterns, and revenue drivers using advanced SQL techniques.
 
 📊 **Query Results:**
-![Query Results]()
+([Query Results](query_results.png))
 
 ## 🚀 SQL Concepts Used
 - GROUP BY
