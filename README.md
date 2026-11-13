@@ -35,7 +35,7 @@ The analysis uses GROUP BY, CASE WHEN, subqueries, HAVING, and RANK / DENSE_RANK
 - **Charts:** Revenue by Medical Condition, Admissions trend, Patients by Age Group (donut), Top 10 Hospitals by Revenue
 - **DAX measures:** defined in the model for the KPIs and percentages
 
-![Dashboard](images/dashboard_screenshot.png)
+![Dashboard](Healthcare_Dashboard.png)
 
 ## How to run
 1. Import `data/healthcare_dataset.csv` into MySQL as the `patients` table, in the `healthcare` database.
